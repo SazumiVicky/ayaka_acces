@@ -154,11 +154,5 @@
     "Ip": "172.18.0.19",
     "Access": true,
     "Added on": "1/3/2024"
-  },
-  {
-    "username": "sazumiviki",
-    "Ip": "",
-    "Access": false,
-    "Added on": ""
   }
 ]
